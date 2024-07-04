@@ -1,5 +1,7 @@
 import React from 'react'
 
+import MeetingTypeList from '@/components/'
+
 const Home = () => {
   const now = new Date();
 
@@ -23,7 +25,8 @@ const Home = () => {
           </div>
         </div>
       </div>
-      
+
+      <MeetingTypeList />
     </section>
   )
 }
