@@ -24,9 +24,10 @@ Deployed with Heroku
 /sign-up: Clerk Sign-up page
 
 ### Credit
-Primary credit to JavascriptMastery on Youtube: "Build and Deploy a Full-Stack Video Conferencing App with Next JS"
+Zoom clone idea and code tutorial lion share: JavascriptMastery on Youtube "Build and Deploy a Full-Stack Video Conferencing App with Next JS"
 https://youtu.be/R8CIO1DZ2b8?si=C2YcZ6vyNSeaoEUV
-Several fixes were needed from various sources
+although fixes were needed from various sources
+
 With snippets from Clerk's quickstart NodeJS
 https://clerk.com/docs
 
