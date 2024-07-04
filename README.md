@@ -4,10 +4,11 @@ Video conference app accessible in-browser on PC and mobile devices
 Harrison Pursley
 
 ### Tech Stack
-NPM
-React
+NextJS
 TypeScript
-JS
+Clerk
+Getstream
+Shadcn
 TailwindCSS
 
 Created in VSCode
